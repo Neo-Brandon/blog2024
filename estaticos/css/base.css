@@ -14,6 +14,10 @@ header h1 a{
     text-decoration: none;
 }
 
+.nav-izq{
+  margin-right: auto;
+}
+
 .nav-der{
     display: flex;
     padding-top: 2rem;
